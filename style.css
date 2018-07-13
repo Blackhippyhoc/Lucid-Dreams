@@ -1,0 +1,23 @@
+    slot-image {
+    position: absolute;
+    top: 0%;
+    left: 0%; 
+    width: 50%; 
+    height: 66.67%;
+    }
+
+   overlay {
+    display: none
+   }
+    text {
+    display: block;
+    bottom: 0px; 
+    background:rgba(0, 0, 0, 0.5)
+    }
+   slotWrapper-imageWrapper{
+    position: absolute; 
+    top: 0%; 
+    left: 50%; 
+    width: 50%; 
+    height: 66.67%;
+   }
